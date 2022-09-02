@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace TowersOfHanoiCSharp
 {
-    internal class TowersOfHanoi
+    static class TowersOfHanoi
     {
+        public static void MoveDisk()
+        {
 
+        }
     }
 }
